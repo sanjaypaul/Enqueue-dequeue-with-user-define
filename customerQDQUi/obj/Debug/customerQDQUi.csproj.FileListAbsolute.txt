@@ -1,0 +1,12 @@
+C:\Users\PC21\Desktop\customerQDQUi\customerQDQUi\bin\Debug\customerQDQUi.exe.config
+C:\Users\PC21\Desktop\customerQDQUi\customerQDQUi\bin\Debug\customerQDQUi.exe
+C:\Users\PC21\Desktop\customerQDQUi\customerQDQUi\bin\Debug\customerQDQUi.pdb
+C:\Users\PC21\Desktop\customerQDQUi\customerQDQUi\obj\Debug\customerQDQUi.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\customerQDQUi\customerQDQUi\obj\Debug\customerQDQUi.Form1.resources
+C:\Users\PC21\Desktop\customerQDQUi\customerQDQUi\obj\Debug\customerQDQUi.Properties.Resources.resources
+C:\Users\PC21\Desktop\customerQDQUi\customerQDQUi\obj\Debug\customerQDQUi.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\customerQDQUi\customerQDQUi\obj\Debug\customerQDQUi.exe
+C:\Users\PC21\Desktop\customerQDQUi\customerQDQUi\obj\Debug\customerQDQUi.pdb
+C:\Users\PC21\Desktop\user Define with En De UI\customerQDQUi\bin\Debug\customerQDQUi.exe.config
+C:\Users\PC21\Desktop\user Define with En De UI\customerQDQUi\obj\Debug\customerQDQUi.exe
+C:\Users\PC21\Desktop\user Define with En De UI\customerQDQUi\obj\Debug\customerQDQUi.pdb
